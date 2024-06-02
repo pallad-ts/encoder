@@ -1,5 +1,5 @@
 {
-  "name": "@pallad/hash",
+  "name": "@pallad/hasher",
   "version": "2.0.0",
   "main": "compiled/index.js",
   "types": "compiled/index.d.ts",
@@ -29,6 +29,6 @@
     "@pallad/scripts": "^3"
   },
   "dependencies": {
-    "@pallad/text-buffer-view": "^1.0.2"
+    "@pallad/text-buffer-view": "^1.0.3"
   }
 }
