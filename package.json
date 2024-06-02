@@ -1,7 +1,6 @@
 {
   "name": "@pallad/hash",
   "version": "1.0.0",
-  "description": "",
   "main": "compiled/index.js",
   "types": "compiled/index.d.ts",
   "scripts": {
@@ -11,7 +10,7 @@
     "prepublishOnly": "npm run compile"
   },
   "engines": {
-    "node": ">=16"
+    "node": ">=18"
   },
   "repository": {
     "type": "git",
