@@ -10,6 +10,9 @@
     "lint": "pallad-scripts lint",
     "prepublishOnly": "npm run compile"
   },
+  "engines": {
+    "node": ">=16"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pallad-ts/hash.git"
@@ -24,9 +27,9 @@
   },
   "homepage": "https://github.com/pallad-ts/hash#readme",
   "devDependencies": {
-    "@pallad/scripts": "^2.0.0-alpha.12"
+    "@pallad/scripts": "^3"
   },
   "dependencies": {
-    "@pallad/secret": "^1.0.2"
+    "@pallad/text-buffer-view": "^1.0.2"
   }
 }

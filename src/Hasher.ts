@@ -1,3 +1,5 @@
-export interface Hasher<TInput, TOutput> {
-	hash(input: TInput): TOutput;
+import {TextBufferView} from "@pallad/text-buffer-view";
+
+export abstract class Hasher {
+	abstract hash(buffer: TextBufferView): Promise<TextBufferView>;
 }

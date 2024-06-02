@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShaHasher variant 256 should hash a string 1`] = `"7ac53faea4d4c95aefc9bbb85732ff3318d104cbfdce5dcb74090180e836fd1a"`;
+
+exports[`ShaHasher variant 384 should hash a string 1`] = `"2af91beeee802ebace815f49d6441af678d989edaf2769798e3637d41da831f9d193205cde8024d0a8486f4a461b85a1"`;
+
+exports[`ShaHasher variant 512 should hash a string 1`] = `"fbf8c005c45c0d36f88e861b42152e00a2f60171f0c62100799df018266d4fe2d7303dfde64f0b01a24206de2c684f22ed84767479818f49d0452b607ad3ecdf"`;

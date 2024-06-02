@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="0.731">
+  <testsuite name="ShaHasher" errors="0" failures="0" skipped="0" timestamp="2024-06-02T21:37:12" time="0.703" tests="3">
+    <testcase classname="ShaHasher variant 256 should hash a string" name="ShaHasher variant 256 should hash a string" time="0.004">
+    </testcase>
+    <testcase classname="ShaHasher variant 384 should hash a string" name="ShaHasher variant 384 should hash a string" time="0.002">
+    </testcase>
+    <testcase classname="ShaHasher variant 512 should hash a string" name="ShaHasher variant 512 should hash a string" time="0">
+    </testcase>
+  </testsuite>
+</testsuites>
